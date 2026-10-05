@@ -28,8 +28,6 @@ For consistent results across runs, keep a product profile as `mdr-profile.md` i
 /plugin install mdr-check@mdr-check
 ```
 
-It is also listed in [marco-vrinssen/claude-plugins](https://github.com/marco-vrinssen/claude-plugins) with my other plugins.
-
 Codex, Cursor and other agents that read Agent Skills:
 
 ```

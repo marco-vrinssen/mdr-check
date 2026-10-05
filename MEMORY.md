@@ -1,6 +1,6 @@
 # mdr-check memory
 
-Updated 2026-10-05. Version 1.0.0, split out of `marco-vrinssen/claude-plugins`, which now only lists it by GitHub source.
+Updated 2026-10-05. Version 1.0.0. Its own marketplace under the same name, installed as `mdr-check@mdr-check`.
 
 ## Layout
 
